@@ -1,5 +1,7 @@
 # Funlab
 
+#### Solutions for the below problem statements can be found inn the Solution folder.
+
 ### SQL Problem Statement
 "PROBLEM STATEMENT: Given INPUT table provides login and logoff details of a Funlab web user.
 Provide SQL query to generate the OUTPUT table to represents the different periods (in mins) when user was logged in."							
