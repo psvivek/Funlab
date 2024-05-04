@@ -8,13 +8,13 @@ Provide SQL query to generate the OUTPUT table to represents the different perio
 							
 To create the INPUT table, necessary SQL commands have been provided; Please refer to Funlab_DE_SQL_Dataset to create the table and insert values;							
 							
-							
-INPUT			    OUTPUT				
-TIMES	STATUS		LOG_ON	LOG_OFF	DURATION		
-10:00:00	on		10:00:00	10:03:00	3		
-10:01:00	on		10:04:00	10:06:00	2		
-10:02:00	on		10:09:00	10:13:00	4		
-10:03:00	off		10:15:00	10:16:00	1		
+``` table				
+INPUT			                    OUTPUT				
+TIMES	STATUS		                LOG_ON     	 LOG_OFF	      DURATION		
+10:00:00	on		        10:00:00	10:03:00		3		
+10:01:00	on		        10:04:00	10:06:00		2		
+10:02:00	on		        10:09:00	10:13:00		4		
+10:03:00	off		        10:15:00	10:16:00		1		
 10:04:00	on						
 10:05:00	on						
 10:06:00	off						
@@ -29,7 +29,7 @@ TIMES	STATUS		LOG_ON	LOG_OFF	DURATION
 10:15:00	on						
 10:16:00	off						
 10:17:00	off						
-
+```
 
 ### Python Problem Statement
 "Given a string,  define a function that find the least repeating character in that string using Python. 
