@@ -1,6 +1,6 @@
 # Funlab
 
-### Solutions for the below problem statements can be found in the Solution folder.
+### Solutions and Operational Manual for the below problem statements can be found in the Solution folder.
 
 ### SQL Problem Statement
 "PROBLEM STATEMENT: Given INPUT table provides login and logoff details of a Funlab web user.
